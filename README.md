@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# nuxt-3-basic-starter-template
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
@@ -73,3 +73,7 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+App.vue holds all the template code, the idea of this repo is to provide a quick and simple scaffolding for simple Nuxt 3 based projects.
+
+Feel free to fork and extend.
